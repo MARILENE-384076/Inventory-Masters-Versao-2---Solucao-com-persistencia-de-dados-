@@ -53,6 +53,13 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 ## Desenvilvimento do Software e Todo o Resto solicitado pelo o dignissimo professor 
 
+### Modelagem do Projeto
+
+#### Diagrama de Caso de Uso
+<img width="400" height="300" alt="Diagrama Caso de Uso" src="https://github.com/user-attachments/assets/32aace32-2afc-4e0a-be29-4cc0681f44e8" />
+
+
+
 
 
 ---
