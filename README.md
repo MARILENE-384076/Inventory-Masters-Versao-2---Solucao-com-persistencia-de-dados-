@@ -56,10 +56,12 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 ### Modelagem do Projeto
 
 #### Diagrama de Caso de Uso
-<img width="400" height="300" aling = "center" alt="Diagrama Caso de Uso" src="https://github.com/user-attachments/assets/32aace32-2afc-4e0a-be29-4cc0681f44e8" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
+
 
 #### Diagrama de Fluxo 
-<img width="215" height="255" alt="Diagrama de fluxo" src="https://github.com/user-attachments/assets/c3215b2e-e942-49fb-8294-d6741d44544b" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
+
 
 
 
