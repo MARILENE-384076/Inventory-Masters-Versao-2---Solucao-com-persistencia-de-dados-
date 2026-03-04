@@ -13,7 +13,7 @@ Somos inovação aplicada à gestão sustentável e competitiva.
 
 
 
-#  demanada  
+#  Demanada  
 O cenário empresarial atual é caracterizado por elevados níveis de produção e, como resultado, pela criação contínua de excedentes produtivos. Esses excedentes englobam sobras de matéria-prima, materiais que não atendem aos padrões comerciais, resíduos operacionais e produtos que não são totalmente aproveitados durante o processo de produção. Na maioria das organizações, esses materiais não são monitorados de maneira estratégica, sendo considerados apenas como resíduos ou um custo inevitável.
 A falta de sistemas organizados de rastreabilidade e gerenciamento desses excedentes causa efeitos consideráveis. Do ponto de vista econômico, as empresas enfrentam prejuízos financeiros devido ao desperdício de recursos, à gestão ineficiente de estoques e à destinação imprópria de materiais reutilizáveis. Do ponto de vista ambiental, o descarte inadequado contribui para o crescimento dos resíduos sólidos, sobrecarrega os aterros e  maior pressão sobre recursos naturais.
 
@@ -39,7 +39,7 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 ---
 
-## 🖥 Tecnologias Utilizadas
+## Viabilidade Técnica 
 - C#  
 - .NET  
 - WPF (Windows Presentation Foundation)  
