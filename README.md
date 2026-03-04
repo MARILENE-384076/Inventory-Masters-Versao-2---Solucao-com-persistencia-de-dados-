@@ -39,71 +39,109 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 ---
 
+## Viabilidade Técnologica 
+
+
+---
+
+
+## Objetivo do projeto  e Todo o Resto solicitado pelo o dignissimo professor 
+
+
+
+---
+
+## Desenvilvimento do Software e Todo o Resto solicitado pelo o dignissimo professor 
+
+
+
+---
+
 ## Viabilidade Técnica 
-- C#  
-- .NET  
-- WPF (Windows Presentation Foundation)  
-- Git e GitHub  
+### 1. Introdução
+
+O presente documento tem por objetivo apresentar a viabilidade técnica do projeto Inventory Masters, que propõe o mapeamento volumétrico inteligente de estoques utilizando o sensor Kinect do Xbox 360 integrado a um sistema desenvolvido em plataforma .NET.
+
+A solução visa identificar, monitorar e classificar excedentes produtivos em diferentes setores da economia, permitindo sua destinação estratégica para reaproveitamento, redistribuição ou reinserção na cadeia produtiva.
+
+Trata-se de um projeto inovador e de baixo custo, que integra tecnologia, eficiência operacional e sustentabilidade, promovendo a redução de desperdícios e a valorização de materiais antes subutilizados.
+
+### 2. Descrição da Solução
+
+A solução consiste na utilização do sensor Kinect Xbox 360 para captura tridimensional do espaço físico destinado ao armazenamento de materiais e excedentes. Por meio da leitura volumétrica automatizada, o sistema identifica variações de ocupação, auxiliando no controle e rastreabilidade de estoques excedentes.
+
+Os dados coletados são processados em um software desenvolvido na linguagem C#, utilizando o .NET SDK 8. O sistema permite classificar materiais com potencial de reaproveitamento, redistribuição interna ou destinação externa para parceiros estratégicos.
+
+A interface foi projetada para ser intuitiva, operada por gestos simples detectados pelo Kinect e acessível via navegador, eliminando a necessidade de conhecimento técnico avançado. Dessa forma, o processo de identificação, organização e geração de relatórios gerenciais ocorre de maneira prática, eficiente e escalável.
+
+ ### 3. Requisitos de Hardware
+
+Para o funcionamento adequado do sistema, será utilizado o seguinte hardware:
+
+Notebook ou Computador – Processador Intel Core i7, 16 GB de memória RAM, SSD de 500 GB;
+
+Sensor Kinect Xbox 360 – Com adaptador USB e fonte de alimentação;
+
+Fonte de alimentação bivolt para o sensor;
+
+Estrutura de suporte para fixação estável do Kinect no ambiente de monitoramento.
+
+### 4. Organização Tecnológica
+
+Para garantir o funcionamento do sistema de monitoramento volumétrico em tempo real, serão utilizados:
+
+Sistema Operacional: Windows 10 ou superior (64 bits);
+
+Plataforma de Desenvolvimento: .NET SDK 8 utilizando Rider (JetBrains);
+
+Linguagem de Programação: C#;
+
+Framework Web: ASP.NET Core com Razor Pages;
+
+Bibliotecas e APIs: Microsoft Kinect SDK 1.8 e bibliotecas para captura e processamento de imagens 3D;
+
+Ferramentas de Apoio: Git para controle de versão.
+
+### 5. Metodologia de Implementação
+
+Configuração do Hardware: instalação e calibração do Kinect no ambiente destinado ao armazenamento de excedentes produtivos.
+
+Desenvolvimento da Aplicação Web: criação das Razor Pages para exibição em tempo real dos dados de captura volumétrica e indicadores operacionais.
+
+Processamento e Visualização: integração do Kinect com o sistema para apresentação de métricas de ocupação, alertas de variação volumétrica e visualização tridimensional.
+
+Classificação Estratégica: definição de parâmetros para categorização dos excedentes (reaproveitamento interno, redistribuição externa ou descarte responsável).
+
+Testes em Ambiente Real: validação da precisão da detecção volumétrica e ajustes de sensibilidade.
+
+Implantação Final: disponibilização do sistema em ambiente operacional, acessível via navegador interno da organização.
+
+### 6. Benefícios e Justificativa
+
+Monitoramento volumétrico em tempo real;
+
+Identificação automatizada de excedentes produtivos;
+
+Apoio à tomada de decisão gerencial baseada em dados;
+
+Redução de desperdícios e melhor aproveitamento de recursos;
+
+Potencial geração de valor econômico a partir de materiais subutilizados;
+
+Baixo custo comparado a sistemas industriais tradicionais de mapeamento 3D;
+
+Integração entre tecnologia, eficiência operacional e sustentabilidade empresarial.
+
+
+
+
+
 
 ---
 
-## 📂 Funcionalidades Atuais (Versão Base)
-A versão inicial deste projeto inclui apenas:
+## viabilidade Economica 
 
-- Campo de entrada de texto  
-- Botão **Adicionar**  
-- Lista para exibir tarefas adicionadas  
-- Validação simples de entrada  
-- Estrutura básica WPF  
 
-Todas as demais funcionalidades serão adicionadas pelos alunos.
-
----
-
-## 🧩 Funcionalidades a Desenvolver (17 alunos)
-Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a numeração designada pelo professor:
-
-1. Criar botão “Limpar Lista”
-2. Criar botão “Editar tarefa selecionada”
-3. Criar botão “Duplicar tarefa selecionada”
-4. Criar contador de tarefas no rodapé
-5. Adicionar validação para impedir tarefas vazias
-6. Permitir mover tarefa para cima
-7. Permitir mover tarefa para baixo
-8. Marcar tarefas concluídas com check
-9. Exportar lista de tarefas para arquivo TXT
-10. Importar lista de tarefas de arquivo TXT
-11. Criar função de pesquisa (filtro)
-12. Adicionar categoria às tarefas (ComboBox)
-13. Exibir data/hora de criação da tarefa
-14. Criar modo Tema Claro/Escuro
-15. Ordenar tarefas A-Z
-16. Ordenar tarefas Z-A
-17. Solicitar confirmação ao excluir tarefa
-
----
-
-## 👤 Atribuição das Funcionalidades (Preenchido por cada aluno ao finalizar sua etapa de desenvolvimento)
-
-| Aluno | Nº | Funcionalidade | Status |
-|-------|----|----------------|--------|
-|Danilo | 1   |      Implementação de funcionalidade de limpar lista          |   Ok     |
-|Diulie      |  2  |  Implementação de funcionalidade de editar tarefa               |    Ok     |
-|Pedro Moura   | 3    | Implementação de funcionalidade para duplicar tarefa       |    Ok    |
-|  Luna   | 4    | Implementação de funcionalidade de contador de tarefas       |    Ok    |
-|  Otavio   | 5    | Implementação de validaçao de adicionar tarefas vazias     |    Ok    |
-| Marilene | 6 |Implementação da funcionalidade permitir mover tarefa para cima (up) | Ok |
-| Luis Ivan | 7 |Implementação da funcionalidade permitir mover tarefa para baixo (Down) | Ok |
-| Maycon | 8 |Implementação da funcionalidade de marcar tarefa como concluida com Check | Ok |
-| Yhan | 9 |Implementação da funcionalidade de  Exportar lista de tarefas para arquivo TXT | Ok |
-| Yhan | 10 |Implementação da funcionalidade de Importar lista de tarefas de arquivo TXT | Ok |
-| Kaio | 11 |Implementação da funcionalidade de pesquisar na lista de tarefas | Ok |
-| Nicolas | 12 |Implementação da funcionalidade de atribuir categorias as tarefas | Ok |
-| Bruno | 13 |Implementação ebibição de data e hora ao lado da tarefa| Ok |
-| Alice | 14 |Implementação do botão do modo escuro e claro | Ok |
-| Erick | 15 |Implementação do botão de ordenar A - Z| Ok |
-| Miguel | 16 |Implementação do botão de ordenar Z - A| Ok |
-| Lucas | 17 |Implementação caixa de confirmação de excluir tarefa| Ok |
 
 
 ---
