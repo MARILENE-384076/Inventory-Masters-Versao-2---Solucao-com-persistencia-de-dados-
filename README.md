@@ -1,4 +1,18 @@
-# Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-
+# Inventory Masters - Soluções Inteligentes em Mapeamento de Estoque 
+
+#  Quem somos!
+
+A Inventory Masters é uma plataforma tecnológica voltada para a gestão inteligente de excedentes produtivos.
+Atuamos conectando empresas a soluções estratégicas de reaproveitamento de materiais.
+Transformamos desperdícios em ativos com potencial de geração de valor econômico.
+Promovemos redução de custos, eficiência operacional e responsabilidade ambiental.
+Somos inovação aplicada à gestão sustentável e competitiva.
+
+
+![WhatsApp Image 2026-03-03 at 21 25 41](https://github.com/user-attachments/assets/a9c43063-1e2c-4c96-9774-90c1dabe1ac6)
+
+
+
 #  demanada  
 O cenário empresarial atual é caracterizado por elevados níveis de produção e, como resultado, pela criação contínua de excedentes produtivos. Esses excedentes englobam sobras de matéria-prima, materiais que não atendem aos padrões comerciais, resíduos operacionais e produtos que não são totalmente aproveitados durante o processo de produção. Na maioria das organizações, esses materiais não são monitorados de maneira estratégica, sendo considerados apenas como resíduos ou um custo inevitável.
 A falta de sistemas organizados de rastreabilidade e gerenciamento desses excedentes causa efeitos consideráveis. Do ponto de vista econômico, as empresas enfrentam prejuízos financeiros devido ao desperdício de recursos, à gestão ineficiente de estoques e à destinação imprópria de materiais reutilizáveis. Do ponto de vista ambiental, o descarte inadequado contribui para o crescimento dos resíduos sólidos, sobrecarrega os aterros e  maior pressão sobre recursos naturais.
@@ -13,7 +27,7 @@ Assim, o presente estudo se justifica pela necessidade de desenvolver mecanismos
 
 
 ---
-## Quem somos
+## Solução 
 
 A Inventory Masters é uma plataforma tecnológica desenvolvida para a gestão estratégica e inteligente de excedentes produtivos em diferentes setores da economia. Seu propósito é oferecer às organizações um sistema estruturado de rastreabilidade, controle e direcionamento de materiais que, tradicionalmente, seriam tratados apenas como descarte operacional.
 
