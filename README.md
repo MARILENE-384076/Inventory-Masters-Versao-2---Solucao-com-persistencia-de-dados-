@@ -77,6 +77,23 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
 
 
+## Modelagem de Banco de Dados
+
+### Modelo Conceitual:
+
+<img width="1349" height="616" alt="InventoryMaster_ModeloConceitual" src="https://github.com/user-attachments/assets/c6d86792-4619-4497-9876-0407c63a003f" />
+
+### Modelo Lógico:
+
+<img width="1080" height="614" alt="InventoryMaster_ModeloLogico" src="https://github.com/user-attachments/assets/08a23fd9-58b8-4b26-8be3-b3bf43bcd847" />
+
+
+### Modelo Fisíco:
+
+<img width="967" height="1002" alt="image" src="https://github.com/user-attachments/assets/3552237e-01ba-4191-98a3-ebccb8b9e5cd" />
+
+<img width="968" height="1002" alt="image" src="https://github.com/user-attachments/assets/6fe7cd76-1829-4d89-b7f8-9cce91d0c49c" />
+
 
 
 
