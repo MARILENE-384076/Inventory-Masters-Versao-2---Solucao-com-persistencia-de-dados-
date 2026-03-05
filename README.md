@@ -1,6 +1,19 @@
 # Inventory Masters - Soluções Inteligentes em Mapeamento de Estoque 
 
-Integrantes:
+<div align="center">
+
+### 👥 Integrantes do Grupo
+
+| | |
+| :---: | :---: |
+| **Danilo Silva Santos** | **Diulie Mileide Batista Correia** |
+| **Marilene da Silva Araujo** | **Miguel Cassio Braga Duarte** |
+
+</div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecb6559d-d790-4798-97c7-f280d315ff58" width="600" alt="Equipe" />
+</p>
 
 #  Quem somos!
 
@@ -10,9 +23,9 @@ Transformamos desperdícios em ativos com potencial de geração de valor econô
 Promovemos redução de custos, eficiência operacional e responsabilidade ambiental.
 Somos inovação aplicada à gestão sustentável e competitiva.
 
-
+<p align="center">
 ![WhatsApp Image 2026-03-03 at 21 25 41](https://github.com/user-attachments/assets/a9c43063-1e2c-4c96-9774-90c1dabe1ac6)
-
+</p>
 -------
 
 #  Demanada  
