@@ -63,7 +63,7 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 
 | Nome  |  Funcionalidade       |Perfil         | Descrição                                                                        |
-|----- -|-----------------------|---------------|----------------------------------------------------------------------------------|
+|-------|-----------------------|---------------|----------------------------------------------------------------------------------|
 |UC01:  | Efetuar Login         | Administrador / Operador | Logar no Sistema                                                      |
 |UC02:  | Configurar Parâmetros | Administrador | Definir os limites de volume ($m^3$) para disparo de alertas.                    |
 |UC03:  | Manter Parceiros      | Administrador | Cadastrar, editar ou excluir empresas que receberão os excedentes.               |
