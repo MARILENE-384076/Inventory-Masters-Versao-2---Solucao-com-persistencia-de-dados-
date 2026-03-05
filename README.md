@@ -11,7 +11,7 @@ Somos inovação aplicada à gestão sustentável e competitiva.
 
 ![WhatsApp Image 2026-03-03 at 21 25 41](https://github.com/user-attachments/assets/a9c43063-1e2c-4c96-9774-90c1dabe1ac6)
 
-
+-------
 
 #  Demanada  
 O cenário empresarial atual é caracterizado por elevados níveis de produção e, como resultado, pela criação contínua de excedentes produtivos. Esses excedentes englobam sobras de matéria-prima, materiais que não atendem aos padrões comerciais, resíduos operacionais e produtos que não são totalmente aproveitados durante o processo de produção. Na maioria das organizações, esses materiais não são monitorados de maneira estratégica, sendo considerados apenas como resíduos ou um custo inevitável.
@@ -165,6 +165,78 @@ Integração entre tecnologia, eficiência operacional e sustentabilidade empres
 ---
 
 ## viabilidade Economica 
+### 1. Custos Estimados de Implantação
+
+O projeto Inventory Masters foi concebido como uma solução tecnológica de baixo custo, utilizando hardware acessível e desenvolvimento próprio, o que reduz significativamente o investimento inicial quando comparado a sistemas industriais de mapeamento volumétrico.
+
+
+
+##Investimento em Hardware
+
+| Item                              | Quantidade | Valor Unitário (R$) | Total (R$) |
+|-----------------------------------|------------|--------------------|------------|
+| Kinect Xbox 360                  | 1          | 30,00              | 30,00      |
+| Cabo/adaptador USB com fonte     | 1          | 80,00              | 80,00      |
+| CPU Core i3                      | 1          | 800,00             | 800,00     |
+| **Subtotal Hardware**            |            |                    | **910,00** |
+
+
+
+
+### 2. Custo de Desenvolvimento (Mão de Obra)
+
+O desenvolvimento do sistema foi realizado por três integrantes da equipe, cada um dedicando 10 horas de trabalho, totalizando 30 horas.
+
+Considerando o valor estimado de R$ 15,00 por hora:
+
+30 horas × R$ 15,00 = R$ 450,00
+
+### 3. Custo Total do Projeto
+
+
+| Categoria | valor  | 
+|-------|----|
+| Hardware| R$ 910,00   |
+|Mão de Obra      |R$ 450,00  |
+| Total Geral|R$ 1360,00   |
+
+O valor total demonstra a viabilidade financeira da solução, principalmente quando comparado a sistemas comerciais de automação e controle volumétrico, que possuem custos significativamente mais elevados.
+
+### 4. Análise da Estrutura de Investimento
+
+A maior parte do investimento (aproximadamente 48,7%) está concentrada na aquisição do equipamento principal (CPU), seguido pela mão de obra (27,4%). Os demais componentes representam uma parcela reduzida do orçamento total.
+
+Esse cenário evidencia que, em ambientes onde já exista infraestrutura computacional disponível, o custo de implantação pode ser ainda menor, ampliando a atratividade econômica da solução.
+
+### 5. Benefícios Econômicos
+
+A implementação da Inventory Masters proporciona:
+
+Baixo custo inicial de implantação;
+
+Redução de perdas financeiras decorrentes de desperdícios e má gestão de excedentes;
+
+Identificação de materiais com potencial de reaproveitamento interno ou redistribuição externa;
+
+Possibilidade de geração de valor econômico a partir de excedentes produtivos;
+
+Redução do tempo gasto em inventários manuais;
+
+Otimização da mão de obra operacional;
+
+Apoio à tomada de decisão com base em dados volumétricos.
+
+Além disso, empresas que trabalham com reaproveitamento, reciclagem, logística reversa ou economia solidária podem atuar como parceiras estratégicas para absorção dos materiais identificados pelo sistema, ampliando o impacto econômico e ambiental da solução.
+
+### 6. Conclusão
+
+O projeto Inventory Masters apresenta um investimento inicial de R$ 1.360,00, valor consideravelmente inferior ao custo de manter um colaborador dedicado exclusivamente ao controle manual de estoques.
+
+Considerando o salário mínimo projetado para 2025 (R$ 1.518,00) e encargos trabalhistas estimados em aproximadamente 70%, o custo mensal de um funcionário pode ultrapassar R$ 2.580,00.
+
+Dessa forma, a automação proposta demonstra potencial de retorno financeiro em curto prazo, além de proporcionar ganhos recorrentes por meio da redução de desperdícios, otimização de recursos e valorização de excedentes produtivos.
+
+A solução alia eficiência operacional, tecnologia acessível e sustentabilidade empresarial, consolidando-se como uma alternativa economicamente viável e estrategicamente relevante.
 
 
 
