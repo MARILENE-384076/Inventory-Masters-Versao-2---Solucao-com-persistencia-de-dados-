@@ -56,7 +56,11 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 # Modelagem do Projeto
 ---
 ## Diagrama de Caso de Uso
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
+
+<p align="center">
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
+</p>
+
 
 
 | Nome  |  Funcionalidade       |Perfil         | Descrição                                                                        |
@@ -73,34 +77,42 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 ---
 
 ## Diagrama de Fluxo 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
+
+<p align="center">
+ <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
+</p>
+
 
 ## Diagrama de Fluxo de Dados (Nível 1)
 
- 1. Entidades Externas
-•	Câmera / Visão Computacional: Origem dos dados de volume.
-•	Usuário (Adm/Op): Interage com as configurações e relatórios.
-•	Parceiro: Destinatário final dos alertas de excedentes.
+  ### Entidades Externas
+  • **Câmera / Visão Computacional:** Origem dos dados de volume. <br />
+  • **Usuário (Adm/Op):** Interage com as configurações e relatórios. <br />
+  • **Parceiro:** Destinatário final dos alertas de excedentes.
 
-3. Processos Principais
-•	P1: Coletar e Validar Medição: Recebe o sinal da câmera, calcula o volume e atribui a confiabilidade da leitura.
-•	P2: Monitorar Limites (Gatilho): Compara o volume recebido com os limites gravados em ParametrosSistema.
-•	P3: Gerenciar Notificações: Se o limite for atingido, busca os parceiros ativos e formata a mensagem.
-•	P4: Gerar Inteligência de Dados: Consolida medições para o Dashboard e relatórios de auditoria.
+  ---
 
-5. Depósitos de Dados (Data Stores)
-•	D1: MedicoesVolume: Histórico de todas as leituras.
-•	D2: ParametrosSistema: Regras de negócio (limite max/min).
-•	D3: Parceiros: Cadastro de quem pode receber o excedente.
-•	D4: Notificacoes: Registro de logs de envios realizados.
+  ### Processos Principais
+  • **P1: Coletar e Validar Medição:** Recebe o sinal da câmera, calcula o volume e atribui a confiabilidade da leitura. <br />
+  • **P2: Monitorar Limites (Gatilho):** Compara o volume recebido com os limites gravados em ParametrosSistema. <br />
+  • **P3: Gerenciar Notificações:** Se o limite for atingido, busca os parceiros ativos e formata a mensagem. <br />
+  • **P4: Gerar Inteligência de Dados:** Consolida medições para o Dashboard e relatórios de auditoria.
 
-## Detalhamento do Fluxo Principal 
+  ---
 
-1.	Entrada de Dados: O sensor (Câmera) envia o VolumeMedido para o Processo 1.
-2.	Persistência: O sistema grava a medição no banco de dados D1.
-3.	Verificação de Regra: O Processo 2 lê o VolumeMaximoPermitido de D2.
-4.	Tomada de Decisão: Caso $VolumeMedido > VolumeMaximo$, o fluxo segue para o Processo 3.
-5.	Saída de Notificação: O sistema consulta D3 (Parceiros), registra o envio em D4 e dispara o e-mail/alerta para o Parceiro Externo.
+  ### Depósitos de Dados (Data Stores)
+  • **D1: MedicoesVolume:** Histórico de todas as leituras. <br />
+  • **D2: ParametrosSistema:** Regras de negócio (limite max/min). <br />
+  • **D3: Parceiros:** Cadastro de quem pode receber o excedente. <br />
+  • **D4: Notificacoes:** Registro de logs de envios realizados.
+ 
+## Detalhamento do Fluxo de Execução 
+
+1. **Entrada de Dados:** O sensor (Câmera) envia o *VolumeMedido* para o Processo 1. <br />
+2. **Persistência:** O sistema grava a medição no banco de dados **D1**. <br />
+3. **Verificação de Regra:** O Processo 2 lê o *VolumeMaximoPermitido* de **D2**. <br />
+4. **Tomada de Decisão:** Caso $VolumeMedido > VolumeMaximo$, o fluxo segue para o Processo 3. <br />
+5. **Saída de Notificação:** O sistema consulta **D3** (Parceiros), registra o envio em **D4** e dispara o e-mail/alerta para o **Parceiro Externo**.
 
 ________________________________________
 
