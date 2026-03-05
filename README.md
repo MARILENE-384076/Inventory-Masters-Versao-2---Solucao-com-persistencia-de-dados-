@@ -57,7 +57,21 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 #### Diagrama de Caso de Uso
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
+---
 
+
+
+
+| Nome  |  Funcionalidade       |Perfil         | Descrição                                                                        |
+|----- -|-----------------------|---------------|----------------------------------------------------------------------------------|
+|UC01:  | Efetuar Login         | Administrador / Operador | Logar no Sistema                                                      |
+|UC02:  | Configurar Parâmetros | Administrador | Definir os limites de volume ($m^3$) para disparo de alertas.                    |
+|UC03:  | Manter Parceiros      | Administrador | Cadastrar, editar ou excluir empresas que receberão os excedentes.               |
+|UC04:  | Registrar Medição     | Sistema / Operador | Captura automática via câmera ou inserção manual do volume atual.           |
+|UC05:  | Monitorar Dashboard   | Operador | Visualizar em tempo real o status dos resíduos/estoque.                               |
+|UC06:  | Notificar Parceiros   | Sistema | (Automático)<< include >> no UC03. Se o volume atingir o limite, o sistema envia o alerta. |
+|UC07:  | Gerar Relatório       | Administrador |Exportar histórico de medições e eficiência de destinação.                            |
+|UC08:  | Efetuar Log Out       | Administrador / Operador| Deslogar do Sistema                                                        |
 
 #### Diagrama de Fluxo 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
