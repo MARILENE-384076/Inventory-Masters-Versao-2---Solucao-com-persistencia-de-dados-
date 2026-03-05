@@ -53,13 +53,10 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 ## Desenvilvimento do Software e Todo o Resto solicitado pelo o dignissimo professor 
 
-### Modelagem do Projeto
-
-#### Diagrama de Caso de Uso
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
+# Modelagem do Projeto
 ---
-
-
+## Diagrama de Caso de Uso
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
 
 
 | Nome  |  Funcionalidade       |Perfil         | Descrição                                                                        |
@@ -73,9 +70,39 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 |UC07:  | Gerar Relatório       | Administrador |Exportar histórico de medições e eficiência de destinação.                            |
 |UC08:  | Efetuar Log Out       | Administrador / Operador| Deslogar do Sistema                                                        |
 
-#### Diagrama de Fluxo 
+---
+
+## Diagrama de Fluxo 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
 
+## Diagrama de Fluxo de Dados (Nível 1)
+
+ 1. Entidades Externas
+•	Câmera / Visão Computacional: Origem dos dados de volume.
+•	Usuário (Adm/Op): Interage com as configurações e relatórios.
+•	Parceiro: Destinatário final dos alertas de excedentes.
+
+3. Processos Principais
+•	P1: Coletar e Validar Medição: Recebe o sinal da câmera, calcula o volume e atribui a confiabilidade da leitura.
+•	P2: Monitorar Limites (Gatilho): Compara o volume recebido com os limites gravados em ParametrosSistema.
+•	P3: Gerenciar Notificações: Se o limite for atingido, busca os parceiros ativos e formata a mensagem.
+•	P4: Gerar Inteligência de Dados: Consolida medições para o Dashboard e relatórios de auditoria.
+
+5. Depósitos de Dados (Data Stores)
+•	D1: MedicoesVolume: Histórico de todas as leituras.
+•	D2: ParametrosSistema: Regras de negócio (limite max/min).
+•	D3: Parceiros: Cadastro de quem pode receber o excedente.
+•	D4: Notificacoes: Registro de logs de envios realizados.
+
+## Detalhamento do Fluxo Principal 
+
+1.	Entrada de Dados: O sensor (Câmera) envia o VolumeMedido para o Processo 1.
+2.	Persistência: O sistema grava a medição no banco de dados D1.
+3.	Verificação de Regra: O Processo 2 lê o VolumeMaximoPermitido de D2.
+4.	Tomada de Decisão: Caso $VolumeMedido > VolumeMaximo$, o fluxo segue para o Processo 3.
+5.	Saída de Notificação: O sistema consulta D3 (Parceiros), registra o envio em D4 e dispara o e-mail/alerta para o Parceiro Externo.
+
+________________________________________
 
 ## Modelagem de Banco de Dados
 
