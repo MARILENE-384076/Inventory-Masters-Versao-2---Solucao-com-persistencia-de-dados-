@@ -1,5 +1,7 @@
 # Inventory Masters - Soluções Inteligentes em Mapeamento de Estoque 
 
+Integrantes:
+
 #  Quem somos!
 
 A Inventory Masters é uma plataforma tecnológica voltada para a gestão inteligente de excedentes produtivos.
@@ -136,9 +138,6 @@ ________________________________________
   </tr>
 </table>
 
-
-
-
 ---
 
 ## Viabilidade Técnica 
@@ -150,6 +149,8 @@ A solução visa identificar, monitorar e classificar excedentes produtivos em d
 
 Trata-se de um projeto inovador e de baixo custo, que integra tecnologia, eficiência operacional e sustentabilidade, promovendo a redução de desperdícios e a valorização de materiais antes subutilizados.
 
+---
+
 ### 2. Descrição da Solução
 
 A solução consiste na utilização do sensor Kinect Xbox 360 para captura tridimensional do espaço físico destinado ao armazenamento de materiais e excedentes. Por meio da leitura volumétrica automatizada, o sistema identifica variações de ocupação, auxiliando no controle e rastreabilidade de estoques excedentes.
@@ -158,6 +159,7 @@ Os dados coletados são processados em um software desenvolvido na linguagem C#,
 
 A interface foi projetada para ser intuitiva, operada por gestos simples detectados pelo Kinect e acessível via navegador, eliminando a necessidade de conhecimento técnico avançado. Dessa forma, o processo de identificação, organização e geração de relatórios gerenciais ocorre de maneira prática, eficiente e escalável.
 
+---
  ### 3. Requisitos de Hardware
 
 Para o funcionamento adequado do sistema, será utilizado o seguinte hardware:
@@ -170,6 +172,7 @@ Fonte de alimentação bivolt para o sensor;
 
 Estrutura de suporte para fixação estável do Kinect no ambiente de monitoramento.
 
+---
 ### 4. Organização Tecnológica
 
 Para garantir o funcionamento do sistema de monitoramento volumétrico em tempo real, serão utilizados:
@@ -186,6 +189,8 @@ Bibliotecas e APIs: Microsoft Kinect SDK 1.8 e bibliotecas para captura e proces
 
 Ferramentas de Apoio: Git para controle de versão.
 
+---
+
 ### 5. Metodologia de Implementação
 
 Configuração do Hardware: instalação e calibração do Kinect no ambiente destinado ao armazenamento de excedentes produtivos.
@@ -199,6 +204,8 @@ Classificação Estratégica: definição de parâmetros para categorização do
 Testes em Ambiente Real: validação da precisão da detecção volumétrica e ajustes de sensibilidade.
 
 Implantação Final: disponibilização do sistema em ambiente operacional, acessível via navegador interno da organização.
+
+---
 
 ### 6. Benefícios e Justificativa
 
@@ -216,19 +223,12 @@ Baixo custo comparado a sistemas industriais tradicionais de mapeamento 3D;
 
 Integração entre tecnologia, eficiência operacional e sustentabilidade empresarial.
 
-
-
-
-
-
 ---
 
 ## viabilidade Economica 
 ### 1. Custos Estimados de Implantação
 
 O projeto Inventory Masters foi concebido como uma solução tecnológica de baixo custo, utilizando hardware acessível e desenvolvimento próprio, o que reduz significativamente o investimento inicial quando comparado a sistemas industriais de mapeamento volumétrico.
-
-
 
 ##Investimento em Hardware
 
@@ -239,8 +239,7 @@ O projeto Inventory Masters foi concebido como uma solução tecnológica de bai
 | CPU Core i3                      | 1          | 800,00             | 800,00     |
 | **Subtotal Hardware**            |            |                    | **910,00** |
 
-
-
+---
 
 ### 2. Custo de Desenvolvimento (Mão de Obra)
 
@@ -249,6 +248,8 @@ O desenvolvimento do sistema foi realizado por três integrantes da equipe, cada
 Considerando o valor estimado de R$ 15,00 por hora:
 
 30 horas × R$ 15,00 = R$ 450,00
+
+---
 
 ### 3. Custo Total do Projeto
 
@@ -261,11 +262,15 @@ Considerando o valor estimado de R$ 15,00 por hora:
 
 O valor total demonstra a viabilidade financeira da solução, principalmente quando comparado a sistemas comerciais de automação e controle volumétrico, que possuem custos significativamente mais elevados.
 
+---
+
 ### 4. Análise da Estrutura de Investimento
 
 A maior parte do investimento (aproximadamente 48,7%) está concentrada na aquisição do equipamento principal (CPU), seguido pela mão de obra (27,4%). Os demais componentes representam uma parcela reduzida do orçamento total.
 
 Esse cenário evidencia que, em ambientes onde já exista infraestrutura computacional disponível, o custo de implantação pode ser ainda menor, ampliando a atratividade econômica da solução.
+
+---
 
 ### 5. Benefícios Econômicos
 
@@ -286,7 +291,7 @@ Otimização da mão de obra operacional;
 Apoio à tomada de decisão com base em dados volumétricos.
 
 Além disso, empresas que trabalham com reaproveitamento, reciclagem, logística reversa ou economia solidária podem atuar como parceiras estratégicas para absorção dos materiais identificados pelo sistema, ampliando o impacto econômico e ambiental da solução.
-
+---
 ### 6. Conclusão
 
 O projeto Inventory Masters apresenta um investimento inicial de R$ 1.360,00, valor consideravelmente inferior ao custo de manter um colaborador dedicado exclusivamente ao controle manual de estoques.
