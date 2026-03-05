@@ -129,9 +129,12 @@ ________________________________________
 
 ### Modelo Fisíco:
 
-<img width="967" height="1002" alt="image" src="https://github.com/user-attachments/assets/3552237e-01ba-4191-98a3-ebccb8b9e5cd" />
-
-<img width="968" height="1002" alt="image" src="https://github.com/user-attachments/assets/6fe7cd76-1829-4d89-b7f8-9cce91d0c49c" />
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3552237e-01ba-4191-98a3-ebccb8b9e5cd" width="400" alt="imagem 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/6fe7cd76-1829-4d89-b7f8-9cce91d0c49c" width="400" alt="imagem 2"></td>
+  </tr>
+</table>
 
 
 
