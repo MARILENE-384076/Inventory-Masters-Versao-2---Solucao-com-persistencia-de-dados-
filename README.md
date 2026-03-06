@@ -137,9 +137,59 @@ ________________________________________
 
 <img width="1349" height="616" alt="InventoryMaster_ModeloConceitual" src="https://github.com/user-attachments/assets/c6d86792-4619-4497-9876-0407c63a003f" />
 
+| Nome da Entidade        | Atributos                                                                       | Chave Primária | Chave Secundária                     |
+| ----------------------- | ------------------------------------------------------------------------------- | -------------- | ------------------------------------ |
+| **Parceiro**            | Id, Nome, Empresa, Email, Telefone, Endereco, Ativo, Data_Cadastro              | Id             | —                                    |
+| **ParametrosSistema**   | Id, Volume_Maximo, Volume_Minimo, Email_Notificacao_Ativo, Data_Atualizacao     | Id             | —                                    |
+| **Usuario**             | Id, Nome, Email, Senha, Perfil, Data_Cadastro, Ativo                            | Id             | —                                    |
+| **MedicaoVolume**       | Id, Data_Hora, Volume_Medido, Origem_Leitura                                    | Id             | —                                    |
+| **Notificacao**         | Id, Data_Envio, Volume_Momento, Status_Envio, Mensagem, Quantidade_Destinatario | Id             | —                                    |
+| **NotificacaoParceiro** | Status_Entrega                                                                  | —              | Ligação entre Parceiro e Notificacao |
+
+
 ### Modelo Lógico:
 
 <img width="1080" height="614" alt="InventoryMaster_ModeloLogico" src="https://github.com/user-attachments/assets/08a23fd9-58b8-4b26-8be3-b3bf43bcd847" />
+
+| Nome da Entidade    | Descrição                                                                        | Atributos               | Tipo de Dado | PK/FK |
+| ------------------- | -------------------------------------------------------------------------------- | ----------------------- | ------------ | ----- |
+| Parceiro            | Guarda informações das empresas parceiras que recebem notificações.              | Id                      | INTEGER      | PK    |
+|                     |                                                                                  | Nome                    | VARCHAR      |       |
+|                     |                                                                                  | Empresa                 | VARCHAR      |       |
+|                     |                                                                                  | Email                   | VARCHAR      |       |
+|                     |                                                                                  | Telefone                | VARCHAR      |       |
+|                     |                                                                                  | Endereco                | VARCHAR      |       |
+|                     |                                                                                  | Ativo                   | BOOLEAN      |       |
+|                     |                                                                                  | Data_Cadastro           | DATE         |       |
+| Usuario             | Representa os usuários cadastrados no sistema.                                   | Id                      | INTEGER      | PK    |
+|                     |                                                                                  | Nome                    | VARCHAR      |       |
+|                     |                                                                                  | Email                   | VARCHAR      |       |
+|                     |                                                                                  | Senha                   | VARCHAR      |       |
+|                     |                                                                                  | Perfil                  | VARCHAR      |       |
+|                     |                                                                                  | Data_Cadastro           | DATE         |       |
+|                     |                                                                                  | Ativo                   | BOOLEAN      |       |
+| Notificacao         | Registra notificações enviadas pelo sistema.                                     | Id                      | INTEGER      | PK    |
+|                     |                                                                                  | Data_Envio              | DATE         |       |
+|                     |                                                                                  | Volume_Momento          | DECIMAL      |       |
+|                     |                                                                                  | Status_Envio            | VARCHAR      |       |
+|                     |                                                                                  | Mensagem                | VARCHAR      |       |
+|                     |                                                                                  | Quantidade_Destinatario | INTEGER      |       |
+|                     |                                                                                  | fk_Usuario_Id           | INTEGER      | FK    |
+| MedicaoVolume       | Armazena medições de volume registradas no sistema.                              | Id                      | INTEGER      | PK    |
+|                     |                                                                                  | Data_Hora               | DATE         |       |
+|                     |                                                                                  | Volume_Medido           | DECIMAL      |       |
+|                     |                                                                                  | Origem_Leitura          | VARCHAR      |       |
+|                     |                                                                                  | fk_Usuario_Id           | INTEGER      | FK    |
+| ParametrosSistema   | Define os parâmetros de controle do sistema.                                     | Id                      | INTEGER      | PK    |
+|                     |                                                                                  | Volume_Maximo           | DECIMAL      |       |
+|                     |                                                                                  | Volume_Minimo           | DECIMAL      |       |
+|                     |                                                                                  | Email_Notificacao_Ativo | BOOLEAN      |       |
+|                     |                                                                                  | Data_Atualizacao        | DATE         |       |
+| NotificacaoParceiro | Tabela associativa que relaciona notificações aos parceiros que irão recebê-las. | Id                      | INTEGER      | PK    |
+|                     |                                                                                  | fk_Parceiro_Id          | INTEGER      | FK    |
+|                     |                                                                                  | fk_Notificacao_Id       | INTEGER      | FK    |
+|                     |                                                                                  | Status_Entrega          | VARCHAR      |       |
+
 
 
 ### Modelo Fisíco:
