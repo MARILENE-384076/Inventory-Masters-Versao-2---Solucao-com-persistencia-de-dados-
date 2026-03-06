@@ -1,11 +1,11 @@
-# Inventory Masters - Soluções Inteligentes em Mapeamento de Estoque 
+# INVENTORY MASTERS - SOLUÇÕES INTELIGENTES EM MAPEAMENTO DE ESTOQUE
 ---
 Unidade Senai: **Nova Lima**
 Instrutor: **Frederico Martins Aguiar**
 
 <div align="center">
 
-## 👥 Integrantes do Grupo
+## 👥 INTEGRANTES DO GRUPO
 
 <p align="center">
   
@@ -41,7 +41,7 @@ Somos inovação aplicada à gestão sustentável e competitiva.
 
 -------
 
-##  Problema 
+##  PROBLEMA 
 O cenário empresarial atual é caracterizado por elevados níveis de produção e, como resultado, pela criação contínua de excedentes produtivos. Esses excedentes englobam sobras de matéria-prima, materiais que não atendem aos padrões comerciais, resíduos operacionais e produtos que não são totalmente aproveitados durante o processo de produção. Na maioria das organizações, esses materiais não são monitorados de maneira estratégica, sendo considerados apenas como resíduos ou um custo inevitável.
 A falta de sistemas organizados de rastreabilidade e gerenciamento desses excedentes causa efeitos consideráveis. Do ponto de vista econômico, as empresas enfrentam prejuízos financeiros devido ao desperdício de recursos, à gestão ineficiente de estoques e à destinação imprópria de materiais reutilizáveis. Do ponto de vista ambiental, o descarte inadequado contribui para o crescimento dos resíduos sólidos, sobrecarrega os aterros e  maior pressão sobre recursos naturais.
 
@@ -55,7 +55,7 @@ Assim, o presente estudo se justifica pela necessidade de desenvolver mecanismos
 
 
 ---
-## Solução 
+## SOLUÇÃO
 
 A Inventory Masters é uma plataforma tecnológica desenvolvida para a gestão estratégica e inteligente de excedentes produtivos em diferentes setores da economia. Seu propósito é oferecer às organizações um sistema estruturado de rastreabilidade, controle e direcionamento de materiais que, tradicionalmente, seriam tratados apenas como descarte operacional.
 
@@ -88,7 +88,7 @@ Desenvolver e implementar uma plataforma automatizada de mapeamento volumétrico
 * Desenvolver um sistema de alertas automáticos para notificação de parceiros quando o estoque atingir níveis críticos.
 * Reduzir o tempo de resposta na destinação de materiais, conectando a oferta (excedente) à demanda (parceiros) de forma ágil.
 
-### 1.3.4 DESENVOLVIMENTO
+### DESENVOLVIMENTO
 O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a precisão técnica e a usabilidade do sistema:
 
 1.  **Levantamento de Requisitos e Modelagem:** Nesta etapa, foram definidos os diagramas de Caso de Uso e Fluxo de Dados para entender como a medição se transforma em notificação.
@@ -98,7 +98,7 @@ O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a 
 5.  **Testes e Calibração:** Ajuste da sensibilidade do sensor para diferentes tipos de materiais e validação do envio de e-mails/alertas automáticos.
 
 ---
-# Modelagem do Sistema
+# MODELAGEM DO SISTEMA
 ---
 ## Diagrama de Caso de Uso
 
@@ -154,7 +154,7 @@ O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a 
 
 ---
 
-## Modelagem de Banco de Dados
+## MODELAGEM DO BANCO DE DADOS
 ---
 ### Modelo Conceitual:
 
@@ -224,7 +224,7 @@ O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a 
 </table>
 
 ---
-## VIABILIDADE TÉCNICA
+## Viabilidade técnica
 
 ### Introdução
 Nosso projeto, propõe o mapeamento volumétrico inteligente de estoques utilizando o sensor **Kinect (Xbox 360)** integrado a um sistema desenvolvido na plataforma **.NET 8**. A solução foca na identificação, monitoramento e classificação de excedentes produtivos, promovendo eficiência operacional e sustentabilidade com baixo custo de implementação.
@@ -266,7 +266,7 @@ O processo de implementação segue etapas rigorosas para garantir a precisão:
   
 ---
 
-## VIABILIDADE ECONÔMICA
+## Viabilidade econômica
 
 ### 1. Custos Estimados de Implantação
 O projeto **Inventory Masters** foi concebido como uma solução tecnológica de baixo custo, utilizando hardware acessível e desenvolvimento próprio. Esta abordagem reduz drasticamente o investimento inicial quando comparado a sistemas industriais de mapeamento volumétrico baseados em sensores LiDAR de alta gama.
@@ -328,7 +328,7 @@ Considerando o salário mínimo projetado para 2025 de **R$ 1.518,00**, somado a
 Portanto, o sistema Inventory Masters apresenta um **Payback (retorno do investimento)** estimado em **menos de um mês**, consolidando-se como uma alternativa economicamente viável, escalável e de alto impacto para a sustentabilidade empresarial.
 
 ---
-## RESULTADOS E CONCLUSÃO
+## Resultados e conclusão
 
 A implementação do projeto **Inventory Masters** demonstrou que a convergência entre hardware acessível e software moderno é uma solução eficaz para os desafios da logística reversa e economia circular. 
 
@@ -361,7 +361,7 @@ O quadro abaixo resume o modelo de negócio da Inventory Masters, destacando com
 
 ---
 
-### SITUAÇÃO DE APRENDIZAGEM
+### Situação de aprendizagem
 
 Este projeto foi desenvolvido como resposta a uma **Demanda Setorial** mediada pelo **SENAI**, originada especificamente das necessidades do setor de **Indústria Gráfica**. O desafio proposto exigiu a criação de uma solução tecnológica capaz de gerenciar o elevado volume de excedentes produtivos — como aparas de papel, sobras de substratos e insumos — que frequentemente não possuem rastreabilidade automatizada.
 
