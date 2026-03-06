@@ -58,16 +58,6 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 
 ---
-
-
-## Objetivo do projeto  e Todo o Resto solicitado pelo o dignissimo professor 
-
-
-
----
-
-## Desenvilvimento do Software e Todo o Resto solicitado pelo o dignissimo professor 
-
 # Modelagem do Projeto
 ---
 ## Diagrama de Caso de Uso
@@ -115,7 +105,7 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
   ---
 
-  ### Depósitos de Dados (Data Stores)
+  ### Depósitos de Dados 
   • **D1: MedicoesVolume:** Histórico de todas as leituras. <br />
   • **D2: ParametrosSistema:** Regras de negócio (limite max/min). <br />
   • **D3: Parceiros:** Cadastro de quem pode receber o excedente. <br />
