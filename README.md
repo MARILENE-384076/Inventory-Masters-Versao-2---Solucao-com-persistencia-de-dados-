@@ -1,21 +1,33 @@
 # Inventory Masters - Soluções Inteligentes em Mapeamento de Estoque 
+---
+Unidade Senai: **Nova Lima**
+Instrutor: **Frederico Martins Aguiar**
 
 <div align="center">
 
-### 👥 Integrantes do Grupo
-
-| | |
-| :---: | :---: |
-| **Danilo Silva Santos** | **Diulie Mileide Batista Correia** |
-| **Marilene da Silva Araujo** | **Miguel Cassio Braga Duarte** |
-
-</div>
+## 👥 Integrantes do Grupo
 
 <p align="center">
+  
   <img src="https://github.com/user-attachments/assets/ecb6559d-d790-4798-97c7-f280d315ff58" width="600" alt="Equipe" />
 </p>
 
-#  Quem somos!
+</div>
+
+<div align="center">
+
+| Nome | Curso| Especialidade no Projeto |
+| :--- | :--- | :--- |
+| **Danilo Silva Santos** | Programação de Sistemas | Desenvolvimento e Integração do Sensor Kinect|
+| **Marilene da Silva Araujo** | Programação de Sistemas | Desenvolvimento e Modelagem de Banco de Dados |
+| **Miguel Cassio Braga Duarte** |Programação de Sistemas | Desenvolvimento e Lógica do negócio |
+| **Diulie Mileide Batista Correia** |Programação de Sistemas | Desenvolvimento e Documentação |
+
+</div>
+
+---
+
+##  Quem somos!
 
 A Inventory Masters é uma plataforma tecnológica voltada para a gestão inteligente de excedentes produtivos.
 Atuamos conectando empresas a soluções estratégicas de reaproveitamento de materiais.
@@ -26,9 +38,10 @@ Somos inovação aplicada à gestão sustentável e competitiva.
 <p align="center">
 ![WhatsApp Image 2026-03-03 at 21 25 41](https://github.com/user-attachments/assets/a9c43063-1e2c-4c96-9774-90c1dabe1ac6)
 </p>
+
 -------
 
-#  Demanada  
+##  Problema 
 O cenário empresarial atual é caracterizado por elevados níveis de produção e, como resultado, pela criação contínua de excedentes produtivos. Esses excedentes englobam sobras de matéria-prima, materiais que não atendem aos padrões comerciais, resíduos operacionais e produtos que não são totalmente aproveitados durante o processo de produção. Na maioria das organizações, esses materiais não são monitorados de maneira estratégica, sendo considerados apenas como resíduos ou um custo inevitável.
 A falta de sistemas organizados de rastreabilidade e gerenciamento desses excedentes causa efeitos consideráveis. Do ponto de vista econômico, as empresas enfrentam prejuízos financeiros devido ao desperdício de recursos, à gestão ineficiente de estoques e à destinação imprópria de materiais reutilizáveis. Do ponto de vista ambiental, o descarte inadequado contribui para o crescimento dos resíduos sólidos, sobrecarrega os aterros e  maior pressão sobre recursos naturais.
 
@@ -54,19 +67,44 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 
 ---
 
-## Viabilidade Técnologica 
+### ÁREA TECNOLÓGICA DA SOLUÇÃO
+A solução Inventory Masters está inserida no ecossistema da **Indústria 4.0**, convergindo tecnologias de hardware e software para a automação de processos. As principais áreas abrangidas são:
+* **Visão Computacional:** Utilização do sensor infravermelho e câmera de profundidade (RGB-D) para o mapeamento volumétrico de objetos e espaços.
+* **Internet das Coisas (IoT):** Integração de sensores físicos com uma interface digital para monitoramento em tempo real.
+* **Sistemas de Informação:** Processamento de dados via plataforma **.NET 8** e armazenamento estruturado em **SQL**, permitindo a rastreabilidade completa dos excedentes.
 
+### JUSTIFICATIVA
+A implementação deste projeto justifica-se pela ineficiência dos métodos tradicionais de inventário manual, que são lentos, propensos a erros humanos e caros. No cenário de sustentabilidade atual, empresas que não monitoram seus excedentes perdem duas vezes: financeiramente (pelo valor do material parado) e ambientalmente (pelo descarte inadequado). 
+A Inventory Masters oferece uma alternativa de **baixo custo** ao utilizar hardware legado (Kinect), democratizando o acesso à tecnologia de ponta para pequenas e médias empresas que buscam se adequar à economia circular e reduzir perdas operacionais.
+
+### OBJETIVOS
+
+**Objetivo Geral:**
+Desenvolver e implementar uma plataforma automatizada de mapeamento volumétrico para a gestão inteligente e direcionamento estratégico de excedentes produtivos.
+
+**Objetivos Específicos:**
+* Configurar a integração entre o hardware Kinect Xbox 360 e o ambiente de desenvolvimento C# (.NET).
+* Criar um algoritmo capaz de converter os dados de profundidade do sensor em métricas de volume (m³).
+* Desenvolver um sistema de alertas automáticos para notificação de parceiros quando o estoque atingir níveis críticos.
+* Reduzir o tempo de resposta na destinação de materiais, conectando a oferta (excedente) à demanda (parceiros) de forma ágil.
+
+### 1.3.4 DESENVOLVIMENTO
+O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a precisão técnica e a usabilidade do sistema:
+
+1.  **Levantamento de Requisitos e Modelagem:** Nesta etapa, foram definidos os diagramas de Caso de Uso e Fluxo de Dados para entender como a medição se transforma em notificação.
+2.  **Arquitetura de Dados:** Criação do modelo relacional no banco de dados para garantir que cada medição de volume esteja vinculada a uma origem e que cada notificação seja registrada para auditoria.
+3.  **Integração do Sensor:** Utilização do *Microsoft Kinect SDK 1.8* para extrair a "nuvem de pontos" (point cloud) do ambiente, permitindo ao sistema "enxergar" o volume ocupado no estoque.
+4.  **Desenvolvimento da Interface Web:** Construção do Dashboard utilizando ASP.NET Core Razor Pages, onde o operador visualiza o status do estoque e configura os parâmetros de alerta.
+5.  **Testes e Calibração:** Ajuste da sensibilidade do sensor para diferentes tipos de materiais e validação do envio de e-mails/alertas automáticos.
 
 ---
-# Modelagem do Projeto
+# Modelagem do Sistema
 ---
 ## Diagrama de Caso de Uso
 
 <p align="center">
   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
 </p>
-
-
 
 | Nome  |  Funcionalidade       |Perfil         | Descrição                                                                        |
 |-------|-----------------------|---------------|----------------------------------------------------------------------------------|
@@ -87,7 +125,6 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
 </p>
 
-
 ## Diagrama de Fluxo de Dados (Nível 1)
 
   ### Entidades Externas
@@ -95,15 +132,11 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
   • **Usuário (Adm/Op):** Interage com as configurações e relatórios. <br />
   • **Parceiro:** Destinatário final dos alertas de excedentes.
 
-  ---
-
   ### Processos Principais
   • **P1: Coletar e Validar Medição:** Recebe o sinal da câmera, calcula o volume e atribui a confiabilidade da leitura. <br />
   • **P2: Monitorar Limites (Gatilho):** Compara o volume recebido com os limites gravados em ParametrosSistema. <br />
   • **P3: Gerenciar Notificações:** Se o limite for atingido, busca os parceiros ativos e formata a mensagem. <br />
   • **P4: Gerar Inteligência de Dados:** Consolida medições para o Dashboard e relatórios de auditoria.
-
-  ---
 
   ### Depósitos de Dados 
   • **D1: MedicoesVolume:** Histórico de todas as leituras. <br />
@@ -119,10 +152,10 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 4. **Tomada de Decisão:** Caso $VolumeMedido > VolumeMaximo$, o fluxo segue para o Processo 3. <br />
 5. **Saída de Notificação:** O sistema consulta **D3** (Parceiros), registra o envio em **D4** e dispara o e-mail/alerta para o **Parceiro Externo**.
 
-________________________________________
+---
 
 ## Modelagem de Banco de Dados
-
+---
 ### Modelo Conceitual:
 
 <img width="1349" height="616" alt="InventoryMaster_ModeloConceitual" src="https://github.com/user-attachments/assets/c6d86792-4619-4497-9876-0407c63a003f" />
@@ -136,7 +169,7 @@ ________________________________________
 | **Notificacao**         | Id, Data_Envio, Volume_Momento, Status_Envio, Mensagem, Quantidade_Destinatario | Id             | —                                    |
 | **NotificacaoParceiro** | Status_Entrega                                                                  | —              | Ligação entre Parceiro e Notificacao |
 
-
+---
 ### Modelo Lógico:
 
 <img width="1080" height="614" alt="InventoryMaster_ModeloLogico" src="https://github.com/user-attachments/assets/08a23fd9-58b8-4b26-8be3-b3bf43bcd847" />
@@ -180,8 +213,7 @@ ________________________________________
 |                     |                                                                                  | fk_Notificacao_Id       | INTEGER      | FK    |
 |                     |                                                                                  | Status_Entrega          | VARCHAR      |       |
 
-
-
+---
 ### Modelo Fisíco:
 
 <table align="center">
@@ -192,175 +224,153 @@ ________________________________________
 </table>
 
 ---
+## VIABILIDADE TÉCNICA
 
-## Viabilidade Técnica 
-### 1. Introdução
-
-O presente documento tem por objetivo apresentar a viabilidade técnica do projeto Inventory Masters, que propõe o mapeamento volumétrico inteligente de estoques utilizando o sensor Kinect do Xbox 360 integrado a um sistema desenvolvido em plataforma .NET.
-
-A solução visa identificar, monitorar e classificar excedentes produtivos em diferentes setores da economia, permitindo sua destinação estratégica para reaproveitamento, redistribuição ou reinserção na cadeia produtiva.
-
-Trata-se de um projeto inovador e de baixo custo, que integra tecnologia, eficiência operacional e sustentabilidade, promovendo a redução de desperdícios e a valorização de materiais antes subutilizados.
-
----
+### Introdução
+Nosso projeto, propõe o mapeamento volumétrico inteligente de estoques utilizando o sensor **Kinect (Xbox 360)** integrado a um sistema desenvolvido na plataforma **.NET 8**. A solução foca na identificação, monitoramento e classificação de excedentes produtivos, promovendo eficiência operacional e sustentabilidade com baixo custo de implementação.
 
 ### 2. Descrição da Solução
+A solução utiliza a tecnologia de luz estruturada e sensores infravermelhos do Kinect para a captura tridimensional (RGB-D) do espaço físico destinado ao armazenamento.
+* **Processamento:** Os dados de profundidade são processados em **C#**, onde algoritmos de geometria analítica convertem a "nuvem de pontos" (*point cloud*) em métricas de volume real ($m^3$).
+* **Interface:** Desenvolvida em **ASP.NET Core**, a interface permite o monitoramento em tempo real e acesso via navegador, facilitando a operação sem necessidade de infraestruturas complexas de software local.
 
-A solução consiste na utilização do sensor Kinect Xbox 360 para captura tridimensional do espaço físico destinado ao armazenamento de materiais e excedentes. Por meio da leitura volumétrica automatizada, o sistema identifica variações de ocupação, auxiliando no controle e rastreabilidade de estoques excedentes.
+### 3. Requisitos de Hardware
+Para a execução estável do sistema, definiu-se a seguinte configuração mínima:
+* **Estação de Trabalho:** Processador Intel Core i7, 16 GB de memória RAM, SSD de 500 GB;
+* **Sensor:** Kinect Xbox 360 com Adaptador USB e Fonte de Alimentação Própria;
+* **Infraestrutura:** Estrutura de suporte rígida para fixação zenital (superior) do sensor, garantindo um ângulo de visão constante e livre de obstruções.
 
-Os dados coletados são processados em um software desenvolvido na linguagem C#, utilizando o .NET SDK 8. O sistema permite classificar materiais com potencial de reaproveitamento, redistribuição interna ou destinação externa para parceiros estratégicos.
-
-A interface foi projetada para ser intuitiva, operada por gestos simples detectados pelo Kinect e acessível via navegador, eliminando a necessidade de conhecimento técnico avançado. Dessa forma, o processo de identificação, organização e geração de relatórios gerenciais ocorre de maneira prática, eficiente e escalável.
-
----
- ### 3. Requisitos de Hardware
-
-Para o funcionamento adequado do sistema, será utilizado o seguinte hardware:
-
-Notebook ou Computador – Processador Intel Core i7, 16 GB de memória RAM, SSD de 500 GB;
-
-Sensor Kinect Xbox 360 – Com adaptador USB e fonte de alimentação;
-
-Fonte de alimentação bivolt para o sensor;
-
-Estrutura de suporte para fixação estável do Kinect no ambiente de monitoramento.
-
----
 ### 4. Organização Tecnológica
-
-Para garantir o funcionamento do sistema de monitoramento volumétrico em tempo real, serão utilizados:
-
-Sistema Operacional: Windows 10 ou superior (64 bits);
-
-Plataforma de Desenvolvimento: .NET SDK 8 utilizando Rider (JetBrains);
-
-Linguagem de Programação: C#;
-
-Framework Web: ASP.NET Core com Razor Pages;
-
-Bibliotecas e APIs: Microsoft Kinect SDK 1.8 e bibliotecas para captura e processamento de imagens 3D;
-
-Ferramentas de Apoio: Git para controle de versão.
-
----
+A arquitetura de software foi planejada para garantir escalabilidade e performance:
+* **Plataforma:** .NET SDK 8 (Ambiente de desenvolvimento Rider/Visual Studio);
+* **Linguagem:** C#;
+* **Bibliotecas e APIs:** * *Microsoft Kinect SDK 1.8*: Para captura bruta de dados do sensor;
+    * *Math.NET Numerics*: Para cálculos matemáticos e estatísticos dos pontos capturados;
+    * *Interoperabilidade*: Camada de compatibilidade para comunicação entre o SDK legado (32-bit) e o ambiente moderno .NET 8 (64-bit).
+* **Banco de Dados:** SQL Server para persistência do histórico de medições e parâmetros de sistema.
 
 ### 5. Metodologia de Implementação
+O processo de implementação segue etapas rigorosas para garantir a precisão:
+1.  **Calibração de Campo:** Instalação física e definição do plano de referência (chão do estoque).
+2.  **Desenvolvimento Web:** Criação das *Razor Pages* para visualização de dados e indicadores operacionais.
+3.  **Algoritmo de Volume:** Integração matemática para traduzir a ocupação do espaço em dados numéricos.
+4.  **Definição de Gatilhos:** Programação de alertas automáticos baseados em limites volumétricos pré-configurados.
+5.  **Testes de Precisão:** Validação da detecção digital comparando com medições físicas reais para ajuste de sensibilidade.
+6.  **Deploy:** Disponibilização do sistema em rede interna para acesso corporativo.
 
-Configuração do Hardware: instalação e calibração do Kinect no ambiente destinado ao armazenamento de excedentes produtivos.
-
-Desenvolvimento da Aplicação Web: criação das Razor Pages para exibição em tempo real dos dados de captura volumétrica e indicadores operacionais.
-
-Processamento e Visualização: integração do Kinect com o sistema para apresentação de métricas de ocupação, alertas de variação volumétrica e visualização tridimensional.
-
-Classificação Estratégica: definição de parâmetros para categorização dos excedentes (reaproveitamento interno, redistribuição externa ou descarte responsável).
-
-Testes em Ambiente Real: validação da precisão da detecção volumétrica e ajustes de sensibilidade.
-
-Implantação Final: disponibilização do sistema em ambiente operacional, acessível via navegador interno da organização.
-
+### 6. Benefícios Técnicos
+* **Precisão Automatizada:** Redução drástica do erro humano comum em inventários manuais;
+* **Custo-Benefício:** Uso de hardware acessível em substituição a sensores LiDAR industriais de alto custo;
+* **Escalabilidade:** Possibilidade de replicar a solução em diferentes pontos de armazenamento com o mesmo núcleo de processamento;
+* **Integração Digital:** Facilidade de exportação de relatórios e conexão com outros sistemas de gestão (ERP).
+  
 ---
 
-### 6. Benefícios e Justificativa
+## VIABILIDADE ECONÔMICA
 
-Monitoramento volumétrico em tempo real;
-
-Identificação automatizada de excedentes produtivos;
-
-Apoio à tomada de decisão gerencial baseada em dados;
-
-Redução de desperdícios e melhor aproveitamento de recursos;
-
-Potencial geração de valor econômico a partir de materiais subutilizados;
-
-Baixo custo comparado a sistemas industriais tradicionais de mapeamento 3D;
-
-Integração entre tecnologia, eficiência operacional e sustentabilidade empresarial.
-
----
-
-## viabilidade Economica 
 ### 1. Custos Estimados de Implantação
+O projeto **Inventory Masters** foi concebido como uma solução tecnológica de baixo custo, utilizando hardware acessível e desenvolvimento próprio. Esta abordagem reduz drasticamente o investimento inicial quando comparado a sistemas industriais de mapeamento volumétrico baseados em sensores LiDAR de alta gama.
 
-O projeto Inventory Masters foi concebido como uma solução tecnológica de baixo custo, utilizando hardware acessível e desenvolvimento próprio, o que reduz significativamente o investimento inicial quando comparado a sistemas industriais de mapeamento volumétrico.
-
-##Investimento em Hardware
-
-| Item                              | Quantidade | Valor Unitário (R$) | Total (R$) |
-|-----------------------------------|------------|--------------------|------------|
-| Kinect Xbox 360                  | 1          | 30,00              | 30,00      |
-| Cabo/adaptador USB com fonte     | 1          | 80,00              | 80,00      |
-| CPU Core i3                      | 1          | 800,00             | 800,00     |
-| **Subtotal Hardware**            |            |                    | **910,00** |
+#### Investimento em Hardware
+| Item | Quantidade | Valor Unitário | Total |
+| :--- | :---: | :---: | :---: |
+| Kinect Xbox 360 | 1 | R$ 30,00 | R$ 30,00 |
+| Cabo/adaptador USB com fonte | 1 | R$ 80,00 | R$ 80,00 |
+| CPU Core i3 | 1 | R$ 800,00 | R$ 800,00 |
+| **Subtotal Hardware** | | | **R$ 910,00** |
 
 ---
 
 ### 2. Custo de Desenvolvimento (Mão de Obra)
+O desenvolvimento do sistema foi realizado pela equipe técnica, com uma dedicação total de 30 horas produtivas. Para fins de cálculo de viabilidade, considerou-se um valor de mercado base para desenvolvedores juniores/estagiários.
 
-O desenvolvimento do sistema foi realizado por três integrantes da equipe, cada um dedicando 10 horas de trabalho, totalizando 30 horas.
-
-Considerando o valor estimado de R$ 15,00 por hora:
-
-30 horas × R$ 15,00 = R$ 450,00
+* **Horas totais:** 30 horas (3 integrantes × 10 horas)
+* **Valor/Hora estimado:** R$ 15,00
+* **Total Mão de Obra:** **R$ 450,00**
 
 ---
 
 ### 3. Custo Total do Projeto
+| Categoria | Valor |
+| :--- | :---: |
+| Hardware | R$ 910,00 |
+| Mão de Obra | R$ 450,00 |
+| **Total Geral** | **R$ 1.360,00** |
 
-
-| Categoria | valor  | 
-|-------|----|
-| Hardware| R$ 910,00   |
-|Mão de Obra      |R$ 450,00  |
-| Total Geral|R$ 1360,00   |
-
-O valor total demonstra a viabilidade financeira da solução, principalmente quando comparado a sistemas comerciais de automação e controle volumétrico, que possuem custos significativamente mais elevados.
+O valor total demonstra a alta atratividade financeira da solução, especialmente frente a sistemas comerciais de automação que podem custar até dez vezes mais.
 
 ---
 
 ### 4. Análise da Estrutura de Investimento
+A análise percentual do investimento revela que:
+* **CPU (Equipamento Principal):** Representa aproximadamente **48,7%** do custo.
+* **Mão de Obra:** Representa **27,4%**.
+* **Sensores e Acessórios:** Representam os **23,9%** restantes.
 
-A maior parte do investimento (aproximadamente 48,7%) está concentrada na aquisição do equipamento principal (CPU), seguido pela mão de obra (27,4%). Os demais componentes representam uma parcela reduzida do orçamento total.
-
-Esse cenário evidencia que, em ambientes onde já exista infraestrutura computacional disponível, o custo de implantação pode ser ainda menor, ampliando a atratividade econômica da solução.
-
----
-
-### 5. Benefícios Econômicos
-
-A implementação da Inventory Masters proporciona:
-
-Baixo custo inicial de implantação;
-
-Redução de perdas financeiras decorrentes de desperdícios e má gestão de excedentes;
-
-Identificação de materiais com potencial de reaproveitamento interno ou redistribuição externa;
-
-Possibilidade de geração de valor econômico a partir de excedentes produtivos;
-
-Redução do tempo gasto em inventários manuais;
-
-Otimização da mão de obra operacional;
-
-Apoio à tomada de decisão com base em dados volumétricos.
-
-Além disso, empresas que trabalham com reaproveitamento, reciclagem, logística reversa ou economia solidária podem atuar como parceiras estratégicas para absorção dos materiais identificados pelo sistema, ampliando o impacto econômico e ambiental da solução.
----
-### 6. Conclusão
-
-O projeto Inventory Masters apresenta um investimento inicial de R$ 1.360,00, valor consideravelmente inferior ao custo de manter um colaborador dedicado exclusivamente ao controle manual de estoques.
-
-Considerando o salário mínimo projetado para 2025 (R$ 1.518,00) e encargos trabalhistas estimados em aproximadamente 70%, o custo mensal de um funcionário pode ultrapassar R$ 2.580,00.
-
-Dessa forma, a automação proposta demonstra potencial de retorno financeiro em curto prazo, além de proporcionar ganhos recorrentes por meio da redução de desperdícios, otimização de recursos e valorização de excedentes produtivos.
-
-A solução alia eficiência operacional, tecnologia acessível e sustentabilidade empresarial, consolidando-se como uma alternativa economicamente viável e estrategicamente relevante.
-
-
-
+Esta estrutura evidencia que, em empresas que já possuam infraestrutura computacional disponível, o custo de implementação pode ser reduzido para menos de **R$ 600,00**, aumentando ainda mais a competitividade do projeto.
 
 ---
 
+### 5. Benefícios Econômicos e Operacionais
+A implementação da plataforma gera ganhos diretos e indiretos para a organização:
+* **Redução de Perdas:** Identificação precoce de matéria-prima excedente antes da depreciação ou perda de validade.
+* **Economia Circular:** Geração de receita através da venda ou redistribuição de excedentes para parceiros estratégicos.
+* **Otimização de Processos:** Redução do tempo gasto em inventários manuais, permitindo que a mão de obra foque em atividades de maior valor agregado.
+* **Dados para Decisão:** Apoio à tomada de decisão baseada em volumetria real, evitando compras desnecessárias de insumos.
 
+---
 
+### 6. Conclusão da Viabilidade Financeira
+O investimento inicial de **R$ 1.360,00** é consideravelmente inferior ao custo de manutenção de um inventário manual. 
 
+Considerando o salário mínimo projetado para 2025 de **R$ 1.518,00**, somado aos encargos trabalhistas (estimados em 70%), o custo mensal de um único funcionário pode ultrapassar **R$ 2.580,00**. 
 
+Portanto, o sistema Inventory Masters apresenta um **Payback (retorno do investimento)** estimado em **menos de um mês**, consolidando-se como uma alternativa economicamente viável, escalável e de alto impacto para a sustentabilidade empresarial.
+
+---
+## RESULTADOS E CONCLUSÃO
+
+A implementação do projeto **Inventory Masters** demonstrou que a convergência entre hardware acessível e software moderno é uma solução eficaz para os desafios da logística reversa e economia circular. 
+
+**Resultados Alcançados:**
+* **Precisão Volumétrica:** O uso do sensor Kinect permitiu uma leitura tridimensional com margem de erro mínima, eliminando as inconsistências das medições manuais.
+* **Agilidade na Destinação:** O sistema de gatilhos reduziu o tempo de permanência de excedentes no estoque, conectando-os rapidamente a parceiros de reaproveitamento.
+* **Impacto Econômico:** Validou-se um modelo de baixíssimo custo ($R$ 1.360,00$), com retorno sobre o investimento (ROI) inferior a 30 dias.
+
+**Conclusão:**
+Conclui-se que a Inventory Masters não é apenas uma ferramenta de medição, mas um elo estratégico para a sustentabilidade industrial. Ao transformar desperdício em dados e ativos, a plataforma cumpre seu papel de promover eficiência operacional e responsabilidade socioambiental, provando ser uma solução escalável e tecnicamente robusta para o mercado atual.
+
+---
+
+## ANEXOS
+
+### BMG CANVAS (Business Model Canvas)
+
+O quadro abaixo resume o modelo de negócio da Inventory Masters, destacando como a empresa cria, entrega e captura valor.
+
+| Parcerias Principais | Atividades-Chave | Propostas de Valor | Relacionamento com Clientes | Segmentos de Clientes |
+| :--- | :--- | :--- | :--- | :--- |
+| • Empresas de Reciclagem<br>• Gestores de Resíduos<br>• Fornecedores de Hardware (Kinect) | • Desenvolvimento de Software<br>• Calibração de Sensores<br>• Gestão de Dados | • Redução de custos em inventários<br>• Destinação estratégica de excedentes<br>• Mapeamento 3D de baixo custo | • Suporte Técnico<br>• Relatórios de Sustentabilidade (ESG)<br>• Interface Intuitiva | • Indústrias de Manufatura<br>• Centros Logísticos<br>• Pequenas e Médias Empresas (PMEs) |
+| **Recursos Principais** | | **Canais** | | **Estrutura de Custos** |
+| • Algoritmo de Visão Computacional<br>• Equipe Técnica<br>• Plataforma .NET 8 | | • Dashboard Web<br>• E-mail / Notificações Push<br>• Consultoria Técnica | | • Manutenção do Software<br>• Aquisição de Hardware<br>• Marketing e Vendas |
+
+**Fluxos de Receita:**
+* Licenciamento da Plataforma (SaaS);
+* Taxa de conexão por material reaproveitado;
+* Consultoria para implementação de Economia Circular.
+
+---
+
+### SITUAÇÃO DE APRENDIZAGEM
+
+Este projeto foi desenvolvido como resposta a uma **Demanda Setorial** mediada pelo **SENAI**, originada especificamente das necessidades do setor de **Indústria Gráfica**. O desafio proposto exigiu a criação de uma solução tecnológica capaz de gerenciar o elevado volume de excedentes produtivos — como aparas de papel, sobras de substratos e insumos — que frequentemente não possuem rastreabilidade automatizada.
+
+A **Inventory Masters** foi projetada para resolver o gargalo de identificação e cubagem desses materiais, transformando o que antes era tratado como resíduo gráfico em ativos rastreáveis para a economia circular. 
+
+**Versatilidade e Escalabilidade:**
+Embora o desenvolvimento inicial tenha sido pautado pelo cenário de uma **Gráfica**, a arquitetura do sistema foi construída sob os pilares da **Indústria 4.0**, o que permite sua total adaptação a qualquer cenário industrial. A lógica de visão computacional e o algoritmo de cálculo volumétrico são agnósticos ao tipo de material, tornando a solução pronta para ser implementada em:
+* **Fábricas de móveis** (sobras de madeira/MDF);
+* **Indústrias metalúrgicas** (sucatas e retalhos metálicos);
+* **Centros de distribuição e logística** (otimização de espaços e paletização).
+
+Dessa forma, o projeto entrega uma resposta precisa à demanda da indústria gráfica, ao mesmo tempo que se consolida como uma ferramenta versátil de gestão de ativos para o ecossistema fabril de forma ampla.
