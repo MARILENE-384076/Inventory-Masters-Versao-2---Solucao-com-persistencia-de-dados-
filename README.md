@@ -1,7 +1,7 @@
 # INVENTORY MASTERS - SOLUÇÕES INTELIGENTES EM MAPEAMENTO DE ESTOQUE
 ---
-Unidade Senai: **Nova Lima**
-Instrutor: **Frederico Martins Aguiar**
+**Unidade SENAI:** Nova Lima  
+**Instrutor:** Frederico Martins Aguiar
 
 <div align="center">
 
