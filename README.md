@@ -102,7 +102,7 @@ O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a 
 ## Diagrama de Caso de Uso
 
 <p align="center">
-  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d83b0b36-40d2-42e9-92ea-254ca5dadd2b" />
+  <img src="./imagens/Diagrama de Caso de Uso.png" width="600" alt="Diagrama de Caso de Uso" />
 </p>
 
 | Nome  |  Funcionalidade       |Perfil         | Descrição                                                                        |
@@ -121,7 +121,7 @@ O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a 
 ## Diagrama de Fluxo 
 
 <p align="center">
- <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b92c757a-874f-4b71-a10b-4036d5f615df" />
+  <img src="./imagens/Diagrama de Fluxo.png" width="600" alt="Diagrama de Fluxo Inventory Masters" />
 </p>
 
 ## Diagrama de Fluxo de Dados (Nível 1)
