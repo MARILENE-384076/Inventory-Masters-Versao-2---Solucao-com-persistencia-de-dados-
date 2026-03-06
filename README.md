@@ -35,7 +35,7 @@ Promovemos redução de custos, eficiência operacional e responsabilidade ambie
 Somos inovação aplicada à gestão sustentável e competitiva.
 
 <p align="center">
-  <img src="./imagens/logo.jpeg" width="600" alt="Logo Inventory Masters" />
+  <img src="./imagens/logo.png" width="600" alt="Logo Inventory Masters" />
 </p>
 
 -------
