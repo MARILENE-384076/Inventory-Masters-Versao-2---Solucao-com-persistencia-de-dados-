@@ -4,9 +4,9 @@ Este projeto faz parte de um **Trabalho de Conclusão de Curso (TCC)** focado na
 
 ## Equipe do Projeto
 * **Marilene da Silva Araujo**
-* **Danilo Silva Santos**
-* **Diulie Mileide Batista Correia**
 * **Miguel Cassio Braga Duarte**
+* **Diulie Mileide Batista Correia**
+* **Danilo Silva Santos**
 
 ## Estrutura do Repositório
 A solução é dividida em dois módulos principais que trabalham em conjunto:
