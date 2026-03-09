@@ -3,7 +3,7 @@
 Este projeto faz parte de um **Trabalho de Conclusão de Curso (TCC)** focado na automação de inventários utilizando sensores de movimento, integrando hardware e software de forma unificada.
 
 ## Equipe do Projeto
-* **Marilene da Silva Araujo**
+* **Marilene da Silva Araújo**
 * **Miguel Cassio Braga Duarte**
 * **Diulie Mileide Batista Correia**
 * **Danilo Silva Santos**
