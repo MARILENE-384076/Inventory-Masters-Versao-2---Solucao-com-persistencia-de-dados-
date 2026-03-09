@@ -255,7 +255,7 @@ A arquitetura de software foi planejada para garantir escalabilidade e performan
 * **Bibliotecas e APIs:** * *Microsoft Kinect SDK 1.8*: Para captura bruta de dados do sensor;
     * *Math.NET Numerics*: Para cálculos matemáticos e estatísticos dos pontos capturados;
     * *Interoperabilidade*: Camada de compatibilidade para comunicação entre o SDK legado (32-bit) e o ambiente moderno .NET 8 (64-bit).
-* **Banco de Dados:** SQL Server para persistência do histórico de medições e parâmetros de sistema.
+* **Banco de Dados:** SQLite para persistência do histórico de medições e parâmetros de sistema.
 
 ### 5. Metodologia de Implementação
 O processo de implementação segue etapas rigorosas para garantir a precisão:
