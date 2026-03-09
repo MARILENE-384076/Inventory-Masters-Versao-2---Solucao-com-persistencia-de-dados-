@@ -1,0 +1,261 @@
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\appsettings.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\global.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\InventoryMaster.staticwebassets.runtime.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\InventoryMaster.exe
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\InventoryMaster.deps.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\InventoryMaster.runtimeconfig.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\InventoryMaster.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\InventoryMaster.pdb
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.AssemblyInfoInputs.cache
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.AssemblyInfo.cs
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.csproj.CoreCompileInputs.cache
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cache
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cs
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.InventoryMaster.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryMaster.props
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryMaster.props
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryMaster.props
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\scopedcss\bundle\InventoryMaster.styles.css
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\scopedcss\projectbundle\InventoryMaster.bundle.scp.css
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\refint\InventoryMaster.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.pdb
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.genruntimeconfig.cache
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\ref\InventoryMaster.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\package-lock.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\package.json
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\InventoryMaster.csproj.AssemblyReference.cache
+C:\Users\Migue\RiderProjects\InventoryMaster\obj\Debug\net8.0\Inventor.76B1E7A4.Up2Date
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\appsettings.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\global.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\package-lock.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\package.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\InventoryMaster.staticwebassets.runtime.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\InventoryMaster.exe
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\InventoryMaster.deps.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\InventoryMaster.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\InventoryMaster.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\InventoryMaster.pdb
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.csproj.AssemblyReference.cache
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cache
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.InventoryMaster.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryMaster.props
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryMaster.props
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryMaster.props
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\scopedcss\bundle\InventoryMaster.styles.css
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\scopedcss\projectbundle\InventoryMaster.bundle.scp.css
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\Inventor.76B1E7A4.Up2Date
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\refint\InventoryMaster.dll
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.pdb
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\InventoryMaster.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\InventoryMaster\InventoryMaster\obj\Debug\net8.0\ref\InventoryMaster.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\appsettings.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\global.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\package-lock.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\package.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\InventoryMaster.staticwebassets.runtime.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\InventoryMaster.exe
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\InventoryMaster.deps.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\InventoryMaster.runtimeconfig.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\InventoryMaster.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\InventoryMaster.pdb
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.csproj.AssemblyReference.cache
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.AssemblyInfoInputs.cache
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.AssemblyInfo.cs
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.csproj.CoreCompileInputs.cache
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cache
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cs
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.InventoryMaster.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryMaster.props
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryMaster.props
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryMaster.props
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\scopedcss\bundle\InventoryMaster.styles.css
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\scopedcss\projectbundle\InventoryMaster.bundle.scp.css
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\Inventor.76B1E7A4.Up2Date
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\refint\InventoryMaster.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.pdb
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\InventoryMaster.genruntimeconfig.cache
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\obj\Debug\net8.0\ref\InventoryMaster.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\android-arm\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\android-arm64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\android-x64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\android-x86\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\ios-arm\native\e_sqlite3.a
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\ios-arm64\native\e_sqlite3.a
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\e_sqlite3.a
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\iossimulator-x64\native\e_sqlite3.a
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\iossimulator-x86\native\e_sqlite3.a
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\Microsoft.SqlServer.Types.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DEV_NOITE\RiderProjects\InventoryMaster certo 02-03-2026\InventoryMaster\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\appsettings.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\global.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\package-lock.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\package.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\InventoryMaster.staticwebassets.runtime.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\InventoryMaster.exe
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\InventoryMaster.deps.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\InventoryMaster.runtimeconfig.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\InventoryMaster.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\InventoryMaster.pdb
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.SqlServer.Types.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\android-arm\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\android-arm64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\android-x64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\android-x86\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\ios-arm\native\e_sqlite3.a
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\ios-arm64\native\e_sqlite3.a
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\e_sqlite3.a
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\iossimulator-x64\native\e_sqlite3.a
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\iossimulator-x86\native\e_sqlite3.a
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.csproj.AssemblyReference.cache
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.AssemblyInfoInputs.cache
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.AssemblyInfo.cs
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.csproj.CoreCompileInputs.cache
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cache
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.RazorAssemblyInfo.cs
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.sourcelink.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\staticwebassets\msbuild.InventoryMaster.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryMaster.props
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryMaster.props
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryMaster.props
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\scopedcss\bundle\InventoryMaster.styles.css
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\scopedcss\projectbundle\InventoryMaster.bundle.scp.css
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\Inventor.76B1E7A4.Up2Date
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\refint\InventoryMaster.dll
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.pdb
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\InventoryMaster.genruntimeconfig.cache
+C:\Users\maryl\RiderProjects\Inventory-Masters-Versao-2---Solucao-com-persistencia-de-dados-\obj\Debug\net8.0\ref\InventoryMaster.dll
