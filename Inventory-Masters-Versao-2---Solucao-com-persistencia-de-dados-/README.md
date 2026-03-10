@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## 👥 INTEGRANTES DO GRUPO
+## INTEGRANTES DO GRUPO
 
 <p align="center">
   <img src="./imagens/Equipe.jpeg" width="600" alt="Equipe Inventory Masters" />
@@ -18,7 +18,7 @@
 | Nome | Curso| Especialidade no Projeto |
 | :--- | :--- | :--- |
 | **Danilo Silva Santos** | Programação de Sistemas | Desenvolvimento e Integração do Sensor Kinect|
-| **Marilene da Silva Araujo** | Programação de Sistemas | Desenvolvimento e Modelagem de Banco de Dados |
+| **Marilene da Silva Araujo** | Programação de Sistemas | Desenvolvimento, e Modelagem de Banco de Dados |
 | **Miguel Cassio Braga Duarte** |Programação de Sistemas | Desenvolvimento e Lógica do negócio |
 | **Diulie Mileide Batista Correia** |Programação de Sistemas | Desenvolvimento e Documentação |
 
@@ -79,7 +79,7 @@ Mais do que uma iniciativa sustentável, a proposta configura-se como um modelo 
 A solução Inventory Masters está inserida no ecossistema da **Indústria 4.0**, convergindo tecnologias de hardware e software para a automação de processos. As principais áreas abrangidas são:
 * **Visão Computacional:** Utilização do sensor infravermelho e câmera de profundidade (RGB-D) para o mapeamento volumétrico de objetos e espaços.
 * **Internet das Coisas (IoT):** Integração de sensores físicos com uma interface digital para monitoramento em tempo real.
-* **Sistemas de Informação:** Processamento de dados via plataforma **.NET 8** e armazenamento estruturado em **SQL**, permitindo a rastreabilidade completa dos excedentes.
+* **Sistemas de Informação:** Processamento de dados via plataforma **.NET 8** e armazenamento estruturado em **SQLite**, permitindo a rastreabilidade completa dos excedentes.
 
 ### JUSTIFICATIVA
 A implementação deste projeto justifica-se pela ineficiência dos métodos tradicionais de inventário manual, que são lentos, propensos a erros humanos e caros. No cenário de sustentabilidade atual, empresas que não monitoram seus excedentes perdem duas vezes: financeiramente (pelo valor do material parado) e ambientalmente (pelo descarte inadequado). 
@@ -114,13 +114,13 @@ O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a 
   <img src="./imagens/Diagrama de Caso de Uso.png" width="600" alt="Diagrama de Caso de Uso" />
 </p>
 
-| Nome  |  Funcionalidade       |Perfil         | Descrição                                                                        |
-|-------|-----------------------|---------------|----------------------------------------------------------------------------------|
-|UC01:  | Efetuar Login         | Administrador / Operador | Logar no Sistema                                                      |
-|UC02:  | Configurar Parâmetros | Administrador | Definir os limites de volume ($m^3$) para disparo de alertas.                    |
-|UC03:  | Manter Parceiros      | Administrador | Cadastrar, editar ou excluir empresas que receberão os excedentes.               |
-|UC04:  | Registrar Medição     | Sistema / Operador | Captura automática via câmera ou inserção manual do volume atual.           |
-|UC05:  | Monitorar Dashboard   | Operador | Visualizar em tempo real o status dos resíduos/estoque.                               |
+| Nome  |  Funcionalidade       |Perfil         | Descrição                                                                            |
+|-------|-----------------------|---------------|--------------------------------------------------------------------------------------|
+|UC01:  | Efetuar Login         | Administrador / Operador | Logar no Sistema                                                          |
+|UC02:  | Configurar Parâmetros | Administrador | Definir os limites de volume ($m^3$) para disparo de alertas.                        |
+|UC03:  | Manter Parceiros      | Administrador | Cadastrar, editar ou excluir empresas que receberão os excedentes.                   |
+|UC04:  | Registrar Medição     | Sistema / Operador | Captura automática via câmera ou inserção manual do volume atual.               |
+|UC05:  | Monitorar Dashboard   | Operador | Visualizar em tempo real o status dos resíduos/estoque.                                   |
 |UC06:  | Notificar Parceiros   | Sistema | (Automático)<< include >> no UC03. Se o volume atingir o limite, o sistema envia o alerta. |
 |UC07:  | Gerar Relatório       | Administrador |Exportar histórico de medições e eficiência de destinação.                            |
 |UC08:  | Efetuar Log Out       | Administrador / Operador| Deslogar do Sistema                                                        |
@@ -133,7 +133,7 @@ O desenvolvimento do projeto foi estruturado em fases cíclicas para garantir a 
   <img src="./imagens/Diagrama de Fluxo.png" width="600" alt="Diagrama de Fluxo Inventory Masters" />
 </p>
 
-## Diagrama de Fluxo de Dados (Nível 1)
+## Diagrama de Fluxo de Dados (1º Nível)
 
   ### Entidades Externas
   • **Câmera / Visão Computacional:** Origem dos dados de volume. <br />
@@ -343,7 +343,7 @@ A implementação do projeto **Inventory Masters** demonstrou que a convergênci
 **Resultados Alcançados:**
 * **Precisão Volumétrica:** O uso do sensor Kinect permitiu uma leitura tridimensional com margem de erro mínima, eliminando as inconsistências das medições manuais.
 * **Agilidade na Destinação:** O sistema de gatilhos reduziu o tempo de permanência de excedentes no estoque, conectando-os rapidamente a parceiros de reaproveitamento.
-* **Impacto Econômico:** Validou-se um modelo de baixíssimo custo ($R$ 1.360,00$), com retorno sobre o investimento (ROI) inferior a 30 dias.
+* **Impacto Econômico:** Validou-se um modelo de baixíssimo custo (R$ 1.360,00), com retorno sobre o investimento (ROI) inferior a 30 dias.
 
 **Conclusão:**
 Conclui-se que a Inventory Masters não é apenas uma ferramenta de medição, mas um elo estratégico para a sustentabilidade industrial. Ao transformar desperdício em dados e ativos, a plataforma cumpre seu papel de promover eficiência operacional e responsabilidade socioambiental, provando ser uma solução escalável e tecnicamente robusta para o mercado atual.
